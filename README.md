@@ -1,1 +1,1 @@
-# MSCS
+# Project Computer Science
